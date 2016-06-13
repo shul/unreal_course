@@ -57,3 +57,5 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 BattleTank 4.12/Content/BattleGround.umap
+BattleTank 4.12/Content/_Levels/BattleGround.umap
+BattleTank 4.12/Content/BT17-Firing-M1A1-tank-in-Djibouti.uasset
